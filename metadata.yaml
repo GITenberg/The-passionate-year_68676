@@ -1,0 +1,35 @@
+_repo: The-passionate-year_68676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hilton, James
+    alias: Trevor, Glen
+    birthdate: 1900
+    deathdate: 1954
+    gutenberg_agent_id: '54898'
+    url: http://www.gutenberg.org/2009/agents/54898
+    wikipedia: https://en.wikipedia.org/wiki/James_Hilton_(novelist)
+description: ''
+gutenberg_issued: '2022-08-03'
+identifiers:
+  gutenberg: '68676'
+  lccn: '24023737'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006534033
+pgterms:marc905: 20220602075648hilton
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: United States :Boston,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- GITenberg
+title: The passionate year
+url: http://www.gutenberg.org/ebooks/68676
